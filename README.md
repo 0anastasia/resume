@@ -21,8 +21,6 @@
 ## Frontend developer 
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=0anastasia&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=0anastasia&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/0anastasia/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=0anastasia&layout=compact"/></a>
 </p>
